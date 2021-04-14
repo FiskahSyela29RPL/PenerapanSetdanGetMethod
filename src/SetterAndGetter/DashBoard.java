@@ -45,7 +45,7 @@ public class DashBoard {
         System.out.println("Sekolah membayar " +adi.getNama() +"\nJumlah uang sekolah ");
         sekolah.updateGajiGuru(adi.getJumlahGaji());
         System.out.println("Sekolah membayar " +imam.getNama() +"\nJumlah uang sekolah ");
-        sekolah.updateGajiGuru(imam.getJumlahGaji())
+        sekolah.updateGajiGuru(imam.getJumlahGaji());
     }
     //akan bertambah lagi nanti
 }
